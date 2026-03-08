@@ -1,4 +1,4 @@
-# AI-data
+# IBM CAS + MCP + watsonx
 Intelligent Data Fabric
 ## Recommended Reading
 
